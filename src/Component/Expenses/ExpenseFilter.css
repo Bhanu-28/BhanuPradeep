@@ -1,0 +1,21 @@
+.ExpenseFilter {
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem 3.2rem;
+  background: #ffe8cc;
+  margin-bottom: 2rem;
+  align-items: center;
+}
+
+select {
+  padding: 1.2rem 2rem;
+  font-size: 1.8rem;
+  background-color: #c0eb75;
+  border: 2px solid black;
+  outline: none;
+  cursor: pointer;
+}
+
+option {
+  background-color: #fff;
+}
