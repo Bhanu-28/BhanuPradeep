@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BhanuPradeep/static/css/main.ce444b20.css",
+    "main.js": "/BhanuPradeep/static/js/main.a46bded5.js",
+    "index.html": "/BhanuPradeep/index.html",
+    "main.ce444b20.css.map": "/BhanuPradeep/static/css/main.ce444b20.css.map",
+    "main.a46bded5.js.map": "/BhanuPradeep/static/js/main.a46bded5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce444b20.css",
+    "static/js/main.a46bded5.js"
+  ]
+}
